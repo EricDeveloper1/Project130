@@ -1,0 +1,27 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 50px;
+    width: 100%;
+    margin: 0px;
+    color: midnightblue;
+    font-family: Viner Hand ITC;
+    font-weight: bolder;
+    font: italic;
+}
+
+.note {
+    font-size: 18px;
+    color: orange;
+    font-family: Broadway;
+    word-spacing: 8px;
+    letter-spacing: 4px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 50px;
+    box-shadow: 5px 2px 2px lightgrey;
+}
